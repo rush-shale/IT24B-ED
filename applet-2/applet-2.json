@@ -1,17 +1,17 @@
 [
     {
-        "latitude": 8.359735,
-        "longitude": 124.869206,
-        "message": "CCS Faculty Office"
+        "latitude": 8.368058,
+        "longitude": 124.866334,
+        "message": "Manolo Fortich Centennial Plaza"
     },
     {
-        "latitude": 8.359639,
-        "longitude": 124.869179,
-        "message": "CCS Laboratory 1"
+        "latitude": 8.368171,
+        "longitude": 124.866712,
+        "message": "Manolo Fortich Public Gymnasium"
     },
     {
-        "latitude": 8.359554,
-        "longitude": 124.869153,
-        "message": "CCS Laboratory 2"
+        "latitude": 8.368307,
+        "longitude":124.865853,
+        "message": "Our Lady of the Immaculate Conception Church"
     }
 ]
